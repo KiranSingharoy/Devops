@@ -1,0 +1,26 @@
+---
+- Student-Id: 11223344
+  First-Name: John
+  Last-Name: Smith
+  Phone-numbers:
+   - 281.555.7689
+   - 713.555.8967
+   - 832.555.9980
+  Addresses:
+   - street: 123 Main St.
+     city: Houston
+     state: TX
+
+- Student-Id: 112
+  First-Name: Kiran
+  Last-Name: SinghaRoy
+
+  Phone-numbers:
+   - 9860844407
+   - 8655627537
+  Addresses:
+   - street: 104,dhanori
+     city: Pune
+     state: Maharashtra
+
+...

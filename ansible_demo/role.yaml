@@ -1,0 +1,9 @@
+---
+- hosts: web #group from inventory
+  user: ec2-user
+  sudo: true
+
+  roles:
+   - webserver #Role which should be installed on the server
+
+...
